@@ -34,7 +34,7 @@
 
             <Button
                 android:id="@+id/pip"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 android:text="@string/enter_picture_in_picture"/>
 
@@ -48,7 +48,7 @@
 
             <Button
                 android:id="@+id/switch_example"
-                android:layout_width="wrap_content"
+                android:layout_width="match_parent"
                 android:layout_height="wrap_content"
                 tools:text="@string/switch_media_session"/>
 
